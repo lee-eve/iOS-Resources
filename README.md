@@ -16,6 +16,7 @@
 
 ###[里脊串的开发随笔](http://adad184.com/ "－－iOS 界面布局")
 ###[岁寒的博客](http://lvwenhan.com/sort/ios "-- iOS Auto Layout")
+###[Kitten's的博客](http://kittenyang.com/#blog -- iOS同龄人)
 
 
 # 一些国外高质量的技术博客（iOS）
