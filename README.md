@@ -7,6 +7,7 @@
 ###[程序猿念茜](http://blog.csdn.net/yiyaaixuexi/article/list/1  "iOS安全相关")
 
 ###[唐巧的技术博客](http://blog.devtang.com/ "iOS")
+###[唐巧维护的中文iOS博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
 ###[码农人生](http://msching.github.io/  "——iOS音频播放")
 ###[文顶顶的博客](http://www.cnblogs.com/wendingding/  "--iOS UI")
 
@@ -29,7 +30,10 @@
 ###http://applifebalance.com/blog/
 ###http://swiftdoc.org/
 ###http://dativestudios.com/
+###http://iosdevelopertips.com/
+
 ###http://dativestudios.com/--“包含所有UI界面的设计截图”
+###https://dribbble.com/ --“设计师分享的设计”
 
 
 # 论坛等其他学习资源
