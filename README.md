@@ -31,9 +31,11 @@
 ###http://swiftdoc.org/
 ###http://dativestudios.com/
 ###http://iosdevelopertips.com/
+###https://yalantis.com/blog/
 
 ###http://dativestudios.com/--“包含所有UI界面的设计截图”
 ###https://dribbble.com/ --“设计师分享的设计”
+###http://capptivate.co/--UI界面参考
 
 
 # 论坛等其他学习资源
