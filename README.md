@@ -35,9 +35,9 @@
 ###http://iosdevelopertips.com/
 ###https://yalantis.com/blog/
 
-###http://dativestudios.com/--“包含所有UI界面的设计截图”
-###https://dribbble.com/ --“设计师分享的设计”
-###http://capptivate.co/--UI界面参考
+###http://dativestudios.com/--"包含所有UI界面的设计截图"
+###https://dribbble.com/ --"设计师分享的设计"
+###http://capptivate.co/--"UI界面参考"
 
 
 # 论坛等其他学习资源
@@ -45,3 +45,4 @@
 ##[GitHub上排名前100的Objective-C 项目简介](https://github.com/trending?l=objective-c&since=monthly)
 ##[网上大牛整理开源的框架集合](http://github.ibireme.com/github/list/ios/#)
 ##[Code4App社区](http://code4app.com/)
+##[常用所有常用的证书](http://blog.csdn.net/holydancer/article/details/9219333 --"客户端上架")
