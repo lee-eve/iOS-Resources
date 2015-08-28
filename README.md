@@ -10,6 +10,7 @@
 ###[唐巧维护的中文iOS博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
 ###[码农人生](http://msching.github.io/  "——iOS音频播放")
 ###[文顶顶的博客](http://www.cnblogs.com/wendingding/  "--iOS UI")
+###[Yi‘mouleng](http://yimouleng.com/tag/ios/ "--iOS 动画")
 
 ###[Tian‘s blog](http://devtian.me/)
 ###[OneV’s Den](http://onevcat.com/)
