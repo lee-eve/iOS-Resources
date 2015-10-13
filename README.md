@@ -38,6 +38,7 @@
 ###http://iosdevelopertips.com/
 ###https://yalantis.com/blog/
 ###[design+Code](https://designcode.io/)
+###[Big Nerd Ranch blog](https://www.bignerdranch.com/blog/)
 
 ###(http://dativestudios.com/ "--包含所有UI界面的设计截图")
 ###(https://dribbble.com/ "--设计师分享的设计")
