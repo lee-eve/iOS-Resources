@@ -55,6 +55,7 @@
 ##[LLDB to GDB Command 调试命令](http://lldb.llvm.org/lldb-gdb.html)
 ##[ASCIIwwdc  历年的WWDC演讲](http://asciiwwdc.com/)
 ##[别人家的好东西](https://github.com/Tim9Liu9/TimLiu-iOS)
+##[iOS及Mac开源项目](http://www.code123.cc/1776.html)
 
 # 开发管理
 ## [敏捷开发教练博客](http://bobjiang.com/ -- "Bob")
