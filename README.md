@@ -24,6 +24,7 @@
 ###[刘坤的技术博客](http://blog.cnbluebox.com/ "--")
 ###[董铂然](http://www.cnblogs.com/dsxniubility/ "")
 ###[ibireme](http://blog.ibireme.com/)
+###[iOS122](http://www.ios122.com/)
 
 # 一些国外高质量的技术博客（iOS）
 ###http://objc.io
