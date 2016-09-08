@@ -59,6 +59,7 @@
 ##[iOS及Mac开源项目](http://www.code123.cc/1776.html)
 ##[swift版设计模式](https://github.com/ochococo/Design-Patterns-In-Swift)
 ##[swift版OOD](https://github.com/ochococo/OOD-Principles-In-Swift)
+##[Chameleon--iOS配色框架](https://github.com/ViccAlexander/Chameleon)
 
 # 开发管理
 ## [敏捷开发教练博客](http://bobjiang.com/ -- "Bob")
