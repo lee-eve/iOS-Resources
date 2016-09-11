@@ -19,7 +19,7 @@
 [董铂然](http://www.cnblogs.com/dsxniubility/ "") |
 
 博客地址 | 描述
-:--------: | -------
+-------- | -------
 [ibireme](http://blog.ibireme.com/) | YYKit作者
 [iOS122](http://www.ios122.com/) | Spark分析拉钩网上的iOS招聘信息
 [Bang’s Blog](http://blog.cnbang.net/  "--JSPath") | JSPath作者
@@ -40,11 +40,21 @@
 [khanlou](http://khanlou.com/) | 
 [teehanlax](http://www.teehanlax.com/blog/) | 
 [applifebalance](http://applifebalance.com/blog/) | 
-[swiftdoc](http://swiftdoc.org/) | 
 [iosdevelopertips](http://iosdevelopertips.com/) |
 [yalantis](https://yalantis.com/blog/) |
 [design+Code](https://designcode.io/) |
 [Big Nerd Ranch blog](https://www.bignerdranch.com/blog/) |
+
+# Siwft 专区
+网站地址 | 简介
+[swiftdoc](http://swiftdoc.org/) | swift文档
+[swift版设计模式](https://github.com/ochococo/Design-Patterns-In-Swift) | 设计模式
+[swift版OOD](https://github.com/ochococo/OOD-Principles-In-Swift) | OOD
+[SwiftGG](http://swift.gg/) | 走心的Swift翻译小组
+[Swift-Cafe](http://www.swiftcafe.io/) | swiftCafe
+[Swift Scripting](http://swift-lang.org/main/) | Swift脚本
+[Swift Org](https://swift.org/) | swift 官方开源文档
+[CocoChina-swift](http://www.cocoachina.com/special/swift/) | cocochina swift专题
 
 #｛UI/UX｝
  网站地址 | 简介 
@@ -66,8 +76,6 @@
 ##[ASCIIwwdc  历年的WWDC演讲](http://asciiwwdc.com/)
 ##[别人家的好东西](https://github.com/Tim9Liu9/TimLiu-iOS)
 ##[iOS及Mac开源项目](http://www.code123.cc/1776.html)
-##[swift版设计模式](https://github.com/ochococo/Design-Patterns-In-Swift)
-##[swift版OOD](https://github.com/ochococo/OOD-Principles-In-Swift)
 ##[Chameleon--iOS配色框架](https://github.com/ViccAlexander/Chameleon)
 
 # 开发管理
