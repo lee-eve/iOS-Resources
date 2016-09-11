@@ -1,6 +1,6 @@
 #国内一些大牛的技术博客
 -----------------------
-博客地址 | RSS地址 ｜ 是多少
+博客地址 | RSS地址 | 是多少
 -------- | --------- | ------
 [雷纯锋的技术博客](http://blog.leichunfeng.com/ ) | <http://blog.leichunfeng.com/atom.xml> | ddd
 [一叶博客](http://00red.com  "--Swift") | <http://00red.com/atom.xml>
