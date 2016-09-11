@@ -1,5 +1,5 @@
 #国内一些大牛的技术博客
-=========================
+-----------------------
 博客地址 | RSS地址
 -------- | ---------
 [雷纯锋的技术博客](http://blog.leichunfeng.com/ ) | <http://blog.leichunfeng.com/>
@@ -25,10 +25,10 @@
 [ibireme](http://blog.ibireme.com/) | <http://blog.leichunfeng.com/>
 [iOS122](http://www.ios122.com/) | <http://blog.leichunfeng.com/>
 
-# 一些国外高质量的技术博客（iOS）
-###http://objc.io
-###http://www.raywenderlich.com/category/ios
-###http://nshipster.com/
+# 国外高质量的技术网站（iOS）
+###[objc.io](http://objc.io)
+###[raywenderlich](http://www.raywenderlich.com/category/ios)
+###[nshipster](http://nshipster.com/)
 ###http://khanlou.com/
 ###http://nshipster.com
 ###http://www.teehanlax.com/blog/
@@ -40,6 +40,7 @@
 ###[design+Code](https://designcode.io/)
 ###[Big Nerd Ranch blog](https://www.bignerdranch.com/blog/)
 
+#｛UI/UX｝
 ###(http://dativestudios.com/ "--包含所有UI界面的设计截图")
 ###(https://dribbble.com/ "--设计师分享的设计")
 ###(http://capptivate.co/ "--UI界面参考")
