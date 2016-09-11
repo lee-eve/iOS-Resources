@@ -28,24 +28,26 @@
 [唐巧维护的中文iOS博客列表](https://github.com/tangqiaoboy/iOSBlogCN) | 唐老师
 [iOS Security](http://security.ios-wiki.com/) | iOS安全相关，越狱工具介绍
 [iOS 逆向工程论坛](http://bbs.iosre.com/) | 《iOS应用逆向工程》作者维护的论坛
+[objc中国](https://www.objccn.io/) | objc网站的中文翻译，喵神维护哒！
+[NSHipster](http://nshipster.cn/) | NShipster网站的中文翻译
 
 # 国外高质量的技术网站、博客（iOS）
-博客地址 | 
+网站地址 | 
 :--------: | -------
-[objc.io](http://objc.io) |
+[objc.io](http://objc.io) | 
 [raywenderlich](http://www.raywenderlich.com/category/ios) |
-[nshipster](http://nshipster.com/) |
-[khanlou](http://khanlou.com/) |
-[teehanlax](http://www.teehanlax.com/blog/) |
-[applifebalance](http://applifebalance.com/blog/) |
-[swiftdoc](http://swiftdoc.org/) |
+[nshipster](http://nshipster.com/) | 
+[khanlou](http://khanlou.com/) | 
+[teehanlax](http://www.teehanlax.com/blog/) | 
+[applifebalance](http://applifebalance.com/blog/) | 
+[swiftdoc](http://swiftdoc.org/) | 
 [iosdevelopertips](http://iosdevelopertips.com/) |
 [yalantis](https://yalantis.com/blog/) |
 [design+Code](https://designcode.io/) |
 [Big Nerd Ranch blog](https://www.bignerdranch.com/blog/) |
 
 #｛UI/UX｝
- | 
+ 网站地址 | 简介 
 :-------: | -------
 [dativestudios](http://dativestudios.com/) | 包含所有UI界面的设计截图
 [dribbble](https://dribbble.com/) | 设计师分享的设计
