@@ -17,16 +17,16 @@
 [Casa Taloyum](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html "--iOS应用架构篇") | <http://casatwy.com/feeds/all.atom.xml>
 [刘坤的技术博客](http://blog.cnbluebox.com/ "--") | <https://blog.cnbluebox.com/atom.xml>
 [董铂然](http://www.cnblogs.com/dsxniubility/ "") |
-
-博客地址 | 
+<center>
+博客地址 | 描述
 :--------: | -------
-[ibireme](http://blog.ibireme.com/) |
-[iOS122](http://www.ios122.com/) |
+[ibireme](http://blog.ibireme.com/) | YYKit作者
+[iOS122](http://www.ios122.com/) | Spark
 [Bang’s Blog](http://blog.cnbang.net/  "--JSPath") | 
 [程序猿念茜](http://blog.csdn.net/yiyaaixuexi/article/list/1  "iOS安全相关") | 
 [念茜的新Blog](http://nianxi.net/  "－－念茜的新Blog") | 
 [唐巧维护的中文iOS博客列表](https://github.com/tangqiaoboy/iOSBlogCN) | 
-
+</center>
 
 # 国外高质量的技术网站、博客（iOS）
 博客地址 | 
