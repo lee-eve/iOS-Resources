@@ -1,30 +1,33 @@
-#iOS-国内一些大牛的技术博客
-###[雷纯锋的技术博客](http://blog.leichunfeng.com/ "--Object-C")
-###[一叶博客](http://00red.com  "--Swift")
-###[Bang’s Blog](http://blog.cnbang.net/  "--JSPath")
+#国内一些大牛的技术博客
+=========================
+博客地址 | RSS地址
+-------- | ---------
+###[雷纯锋的技术博客](http://blog.leichunfeng.com/ )| < http://blog.leichunfeng.com/ >
+###[一叶博客](http://00red.com  "--Swift") | < http://blog.leichunfeng.com/ >
+###[Bang’s Blog](http://blog.cnbang.net/  "--JSPath") | < http://blog.leichunfeng.com/ >
 
-###[破船之家](http://www.cnblogs.com/wendingding/) 
-###[程序猿念茜](http://blog.csdn.net/yiyaaixuexi/article/list/1  "iOS安全相关") 
--[念茜的新Blog](http://nianxi.net/  "－－念茜的新Blog")
+###[破船之家](http://www.cnblogs.com/wendingding/) | < http://blog.leichunfeng.com/ >
+###[程序猿念茜](http://blog.csdn.net/yiyaaixuexi/article/list/1  "iOS安全相关") | < http://blog.leichunfeng.com/ >
+-[念茜的新Blog](http://nianxi.net/  "－－念茜的新Blog") | < http://blog.leichunfeng.com/ >
 
-###[唐巧的技术博客](http://blog.devtang.com/ "iOS")
-###[唐巧维护的中文iOS博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
-###[码农人生](http://msching.github.io/  "--iOS音频播放")
-###[文顶顶的博客](http://www.cnblogs.com/wendingding/  "--iOS UI")
-###[Yi‘mouleng](http://yimouleng.com/tag/ios/ "--iOS 动画")
+###[唐巧的技术博客](http://blog.devtang.com/ "iOS") | < http://blog.leichunfeng.com/ >
+###[唐巧维护的中文iOS博客列表](https://github.com/tangqiaoboy/iOSBlogCN) | < http://blog.leichunfeng.com/ >
+###[码农人生](http://msching.github.io/  "--iOS音频播放") | < http://blog.leichunfeng.com/ >
+###[文顶顶的博客](http://www.cnblogs.com/wendingding/  "--iOS UI") | < http://blog.leichunfeng.com/ >
+###[Yi‘mouleng](http://yimouleng.com/tag/ios/ "--iOS 动画") | < http://blog.leichunfeng.com/ >
 
-###[Tian‘s blog](http://devtian.me/)
-###[OneV’s Den](http://onevcat.com/)
-###[NS中文站](http://nshipster.cn/)
+###[Tian‘s blog](http://devtian.me/) | < http://blog.leichunfeng.com/  >
+###[OneV’s Den](http://onevcat.com/) | < http://blog.leichunfeng.com/ >
+###[NS中文站](http://nshipster.cn/) | < http://blog.leichunfeng.com/ >
 
-###[里脊串的开发随笔](http://adad184.com/ "--iOS 界面布局")
-###[岁寒的博客](http://lvwenhan.com/sort/ios "-- iOS Auto Layout")
-###[Kitten's的博客](http://kittenyang.com/#blog "-- iOS同龄人")
-###[Casa Taloyum](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html "--iOS应用架构篇")
-###[刘坤的技术博客](http://blog.cnbluebox.com/ "--")
-###[董铂然](http://www.cnblogs.com/dsxniubility/ "")
-###[ibireme](http://blog.ibireme.com/)
-###[iOS122](http://www.ios122.com/)
+###[里脊串的开发随笔](http://adad184.com/ "--iOS 界面布局") | < http://blog.leichunfeng.com/ >
+###[岁寒的博客](http://lvwenhan.com/sort/ios "-- iOS Auto Layout") | < http://blog.leichunfeng.com/ >
+###[Kitten's的博客](http://kittenyang.com/#blog "-- iOS同龄人") | < http://blog.leichunfeng.com/  >
+###[Casa Taloyum](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html "--iOS应用架构篇") | < http://blog.leichunfeng.com/ >
+###[刘坤的技术博客](http://blog.cnbluebox.com/ "--") | < http://blog.leichunfeng.com/ >
+###[董铂然](http://www.cnblogs.com/dsxniubility/ "") | < http://blog.leichunfeng.com/ >
+###[ibireme](http://blog.ibireme.com/) | < http://blog.leichunfeng.com/ >
+###[iOS122](http://www.ios122.com/) | < http://blog.leichunfeng.com/ >
 
 # 一些国外高质量的技术博客（iOS）
 ###http://objc.io
