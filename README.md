@@ -2,28 +2,27 @@
 -----------------------
 博客地址 | RSS地址
 -------- | ---------
-[雷纯锋的技术博客](http://blog.leichunfeng.com/ ) | <http://blog.leichunfeng.com/>
-[一叶博客](http://00red.com  "--Swift") | < http://blog.leichunfeng.com/ >
-[Bang’s Blog](http://blog.cnbang.net/  "--JSPath") | <http://blog.leichunfeng.com/>
-[破船之家](http://www.cnblogs.com/wendingding/) | < http://blog.leichunfeng.com/ >
-[程序猿念茜](http://blog.csdn.net/yiyaaixuexi/article/list/1  "iOS安全相关") | <http://blog.leichunfeng.com/>
--[念茜的新Blog](http://nianxi.net/  "－－念茜的新Blog") | <http://blog.leichunfeng.com/>
-[唐巧的技术博客](http://blog.devtang.com/ "iOS") | <http://blog.leichunfeng.com/>
-[唐巧维护的中文iOS博客列表](https://github.com/tangqiaoboy/iOSBlogCN) | <http://blog.leichunfeng.com/>
-[码农人生](http://msching.github.io/  "--iOS音频播放") | <http://blog.leichunfeng.com/>
-[文顶顶的博客](http://www.cnblogs.com/wendingding/  "--iOS UI") | <http://blog.leichunfeng.com/>
-[Yi‘mouleng](http://yimouleng.com/tag/ios/ "--iOS 动画") | <http://blog.leichunfeng.com/>
-[Tian‘s blog](http://devtian.me/) | <http://blog.leichunfeng.com/>
-[OneV’s Den](http://onevcat.com/) | <http://blog.leichunfeng.com/>
+[雷纯锋的技术博客](http://blog.leichunfeng.com/ ) | <http://blog.leichunfeng.com/atom.xml>
+[一叶博客](http://00red.com  "--Swift") | <http://00red.com/atom.xml>
+[Bang’s Blog](http://blog.cnbang.net/  "--JSPath") | 
+[破船之家](http://beyondvincent.com/) | <http://beyondvincent.com/atom.xml>
+[程序猿念茜](http://blog.csdn.net/yiyaaixuexi/article/list/1  "iOS安全相关") | 
+[念茜的新Blog](http://nianxi.net/  "－－念茜的新Blog") | 
+[唐巧的技术博客](http://blog.devtang.com/ "iOS") | <http://blog.devtang.com/atom.xml>
+[唐巧维护的中文iOS博客列表](https://github.com/tangqiaoboy/iOSBlogCN) | 
+[码农人生](http://msching.github.io/  "--iOS音频播放") | <http://msching.github.io/atom.xml>
+[Yi‘mouleng](http://yimouleng.com/tag/ios/ "--iOS 动画") | <http://yimouleng.com/atom.xml>
+[Tian‘s blog](http://devtian.me/) | <http://devtian.me/atom.xml>
+[OneV’s Den](http://onevcat.com/ "--喵神") | <https://onevcat.com/feed.xml>
 [NS中文站](http://nshipster.cn/) | <http://blog.leichunfeng.com/>
-[里脊串的开发随笔](http://adad184.com/ "--iOS 界面布局") | <http://blog.leichunfeng.com/>
-[岁寒的博客](http://lvwenhan.com/sort/ios "-- iOS Auto Layout") | <http://blog.leichunfeng.com/>
-[Kitten's的博客](http://kittenyang.com/#blog "-- iOS同龄人") | <http://blog.leichunfeng.com/>
-[Casa Taloyum](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html "--iOS应用架构篇") | <http://blog.leichunfeng.com/>
-[刘坤的技术博客](http://blog.cnbluebox.com/ "--") | <http://blog.leichunfeng.com/>
-[董铂然](http://www.cnblogs.com/dsxniubility/ "") | <http://blog.leichunfeng.com/>
-[ibireme](http://blog.ibireme.com/) | <http://blog.leichunfeng.com/>
-[iOS122](http://www.ios122.com/) | <http://blog.leichunfeng.com/>
+[里脊串的开发随笔](http://adad184.com/ "--iOS 界面布局") | <http://adad184.com/atom.xml>
+[岁寒的博客](http://lvwenhan.com/sort/ios "-- iOS Auto Layout") | <https://lvwenhan.com/rss.php>
+[Kitten's的博客](http://kittenyang.com/#blog "-- iOS同龄人") | <http://kittenyang.com/rss>
+[Casa Taloyum](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html "--iOS应用架构篇") | <http://casatwy.com/feeds/all.atom.xml>
+[刘坤的技术博客](http://blog.cnbluebox.com/ "--") | <https://blog.cnbluebox.com/atom.xml>
+[董铂然](http://www.cnblogs.com/dsxniubility/ "") |
+[ibireme](http://blog.ibireme.com/) |
+[iOS122](http://www.ios122.com/) |
 
 # 国外高质量的技术网站（iOS）
 ###[objc.io](http://objc.io)
