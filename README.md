@@ -19,7 +19,7 @@
 [董铂然](http://www.cnblogs.com/dsxniubility/ "") |
 
 博客地址 | 
--------- | -------
+:--------: | -------
 [ibireme](http://blog.ibireme.com/) |
 [iOS122](http://www.ios122.com/) |
 [Bang’s Blog](http://blog.cnbang.net/  "--JSPath") | 
@@ -27,25 +27,29 @@
 [念茜的新Blog](http://nianxi.net/  "－－念茜的新Blog") | 
 [唐巧维护的中文iOS博客列表](https://github.com/tangqiaoboy/iOSBlogCN) | 
 
-# 国外高质量的技术网站（iOS）
-###[objc.io](http://objc.io)
-###[raywenderlich](http://www.raywenderlich.com/category/ios)
-###[nshipster](http://nshipster.com/)
-###http://khanlou.com/
-###http://nshipster.com
-###http://www.teehanlax.com/blog/
-###http://applifebalance.com/blog/
-###http://swiftdoc.org/
-###http://dativestudios.com/
-###http://iosdevelopertips.com/
-###https://yalantis.com/blog/
-###[design+Code](https://designcode.io/)
-###[Big Nerd Ranch blog](https://www.bignerdranch.com/blog/)
+
+# 国外高质量的技术网站、博客（iOS）
+博客地址 | 
+:--------: | -------
+[objc.io](http://objc.io) |
+[raywenderlich](http://www.raywenderlich.com/category/ios) |
+[nshipster](http://nshipster.com/) |
+[khanlou](http://khanlou.com/) |
+[teehanlax](http://www.teehanlax.com/blog/) |
+[applifebalance](http://applifebalance.com/blog/) |
+[swiftdoc](http://swiftdoc.org/) |
+[iosdevelopertips](http://iosdevelopertips.com/) |
+[yalantis](https://yalantis.com/blog/) |
+[design+Code](https://designcode.io/) |
+[Big Nerd Ranch blog](https://www.bignerdranch.com/blog/) |
 
 #｛UI/UX｝
-###(http://dativestudios.com/ "--包含所有UI界面的设计截图")
-###(https://dribbble.com/ "--设计师分享的设计")
-###(http://capptivate.co/ "--UI界面参考")
+ | 
+:-------: | -------
+[dativestudios](http://dativestudios.com/) | 包含所有UI界面的设计截图
+[dribbble](https://dribbble.com/) | 设计师分享的设计
+[capptivate](http://capptivate.co/) | UI界面参考
+[sketchapptv](http://sketchapp.tv/) | sketch视频教程、资源
 
 
 # 论坛等其他学习资源
