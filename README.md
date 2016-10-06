@@ -32,6 +32,9 @@
 [objc中国](https://www.objccn.io/) | objc网站的中文翻译，喵神维护哒！
 [NSHipster](http://nshipster.cn/) | NShipster网站的中文翻译
 
+iOS 黑魔法技巧 | 描述
+--------- | ---------
+[iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) | iOS私有API
 
 # 国外高质量的技术网站、博客（iOS）
 网站地址 | 
