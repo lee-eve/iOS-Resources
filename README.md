@@ -31,6 +31,7 @@
 [iOS 逆向工程论坛](http://bbs.iosre.com/) | 《iOS应用逆向工程》作者维护的论坛
 [objc中国](https://www.objccn.io/) | objc网站的中文翻译，喵神维护哒！
 [NSHipster](http://nshipster.cn/) | NShipster网站的中文翻译
+[刘君](http://blog.imjun.net/) | iOS逆向
 
 iOS 黑魔法技巧 | 描述
 --------- | ---------
