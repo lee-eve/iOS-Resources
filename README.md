@@ -28,6 +28,7 @@
 [程序猿念茜](http://blog.csdn.net/yiyaaixuexi/article/list/1  "iOS安全相关") | iOS安全
 [念茜的新Blog](http://nianxi.net/  "－－念茜的新Blog") | iOS安全
 [唐巧维护的中文iOS博客列表](https://github.com/tangqiaoboy/iOSBlogCN) | 唐老师
+[iOS tips](https://github.com/Aufree/trip-to-iOS) |  iOS 学习资料 iOS-tips
 [iOS Security](http://security.ios-wiki.com/) | iOS安全相关，越狱工具介绍
 [iOS 逆向工程论坛](http://bbs.iosre.com/) | 《iOS应用逆向工程》作者维护的论坛
 [objc中国](https://www.objccn.io/) | objc网站的中文翻译，喵神维护哒！
