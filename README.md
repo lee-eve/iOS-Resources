@@ -35,6 +35,7 @@
 [NSHipster](http://nshipster.cn/) | NShipster网站的中文翻译
 [刘君](http://blog.imjun.net/) | iOS逆向
 [Yachen Liu](http://yach.me/) | iOS iBeacon
+[靛青](http://blog.dianqk.org/) | iOS RxSwift
 
 iOS 黑魔法技巧 | 描述
 --------- | ---------
