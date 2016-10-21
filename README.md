@@ -14,7 +14,7 @@
 [里脊串的开发随笔](http://adad184.com/ "--iOS 界面布局") | <http://adad184.com/atom.xml>
 [岁寒的博客](http://lvwenhan.com/sort/ios "-- iOS Auto Layout") | <https://lvwenhan.com/rss.php>
 [Kitten's的博客](http://kittenyang.com/#blog "-- iOS同龄人") | <http://kittenyang.com/rss>
-[Casa Taloyum](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html "--iOS应用架构篇") | <http://casatwy.com/feeds/all.atom.xml>
+[Casa Taloyum](http://casatwy.com/"--iOS应用架构篇") | <http://casatwy.com/feeds/all.atom.xml>
 [刘坤的技术博客](http://blog.cnbluebox.com/ "--") | <https://blog.cnbluebox.com/atom.xml>
 [一水的技术博客](http://dzpqzb.com/index.html) | <http://dzpqzb.com/pages/rss.xml>
 
