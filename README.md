@@ -90,6 +90,8 @@ iOS 黑魔法技巧 | 描述
 ##[iOS及Mac开源项目](http://www.code123.cc/1776.html)
 ##[Chameleon--iOS配色框架](https://github.com/ViccAlexander/Chameleon)
 ##[APP Store 上架审核问题汇总](https://github.com/wg689/Solve-App-Store-Review-Problem)
+##[《禅与 Objective-C 编程艺术》](https://www.gitbook.com/book/yourtion/objc-zen-book-cn/details)
+##[《招一个靠谱的iOS》参考答案](https://github.com/ChenYilong/iOSInterviewQuestions)
 
 # 开发管理
 ## [敏捷开发教练博客](http://bobjiang.com/ -- "Bob")
