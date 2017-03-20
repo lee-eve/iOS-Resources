@@ -84,7 +84,7 @@ iOS 黑魔法技巧 | 描述
 ## [GitHub上排名前100的Objective-C 项目简介](https://github.com/trending?l=objective-c&since=monthly)
 ## [网上大牛整理开源的框架集合](http://github.ibireme.com/github/list/ios/#)
 ## [Code4App社区](http://code4app.com/)
-## [常用所有常用的证书](http://blog.csdn.net/holydancer/article/details/9219333 --"客户端上架")
+## [常用所有常用的证书](http://blog.csdn.net/holydancer/article/details/9219333)
 ## [LLDB to GDB Command 调试命令](http://lldb.llvm.org/lldb-gdb.html)
 ## [ASCIIwwdc  历年的WWDC演讲](http://asciiwwdc.com/)
 ## [别人家的好东西](https://github.com/Tim9Liu9/TimLiu-iOS)
