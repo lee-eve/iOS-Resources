@@ -69,9 +69,9 @@ iOS 黑魔法技巧 | 描述
 [Swift Org](https://swift.org/) | swift 官方开源文档
 [CocoChina-swift](http://www.cocoachina.com/special/swift/) | cocochina swift专题
 
-#｛UI/UX｝
+# ｛UI/UX｝
  网站地址 | 简介 
-:-------: | -------
+|:-------: | -------|
 [dativestudios](http://dativestudios.com/) | 包含所有UI界面的设计截图
 [dribbble](https://dribbble.com/) | 设计师分享的设计
 [capptivate](http://capptivate.co/) | UI界面参考
@@ -95,4 +95,4 @@ iOS 黑魔法技巧 | 描述
 ## [《招一个靠谱的iOS》参考答案](https://github.com/ChenYilong/iOSInterviewQuestions)
 
 # 开发管理
-## [敏捷开发教练博客](http://bobjiang.com/ -- "Bob")
+## [敏捷开发教练博客](http://bobjiang.com/)
