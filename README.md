@@ -1,4 +1,4 @@
-#国内一些大牛的技术博客
+# 国内一些大牛的技术博客
 
 博客地址 | RSS地址
 -------- | ---------
@@ -45,7 +45,7 @@ iOS 黑魔法技巧 | 描述
 
 # 国外高质量的技术网站、博客（iOS）
 网站地址 | 
-:--------: | -------
+| :--------: | -------
 [objc.io](http://objc.io) | 
 [raywenderlich](http://www.raywenderlich.com/category/ios) |
 [nshipster](http://nshipster.com/) | 
